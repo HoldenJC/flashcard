@@ -3,7 +3,9 @@
 }
 
 .card {
-  max-width: 18rem;
+  max-width: 20rem;
+  min-width: 18rem;
+  margin-bottom: 1rem !important;
 }
 
 .clickable {
